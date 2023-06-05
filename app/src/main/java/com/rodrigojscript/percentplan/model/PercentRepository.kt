@@ -1,8 +1,5 @@
 package com.rodrigojscript.percentplan.model
 
-import androidx.lifecycle.LiveData
-import androidx.lifecycle.MutableLiveData
-
 class PercentRepository {
 
     // Esta función recibe la cantidad de ingresos y calcula los porcentajes de gastos y ahorros

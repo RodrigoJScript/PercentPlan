@@ -1,11 +1,8 @@
 package com.rodrigojscript.percentplan.viewmodel
 
 import androidx.compose.runtime.mutableStateOf
-
 import androidx.lifecycle.ViewModel
-import androidx.lifecycle.viewModelScope
 import com.rodrigojscript.percentplan.model.PercentRepository
-import kotlinx.coroutines.launch
 
 class PercentPlanViewModel : ViewModel() {
 
